@@ -57,22 +57,6 @@ Do not try to compile and run using javac and java commands from the terminal, a
 Expected Output
 After running the application, the output will be displayed in the TERMINAL panel within VS Code. It should look exactly like this:
 
---- Hashira Placements Assignment Solver ---
 
-Solving for Test Case 1...
-Degree of polynomial (m) is 2. Need 3 points.
-Point 1: (x=1, y=4)
-Point 2: (x=2, y=7)
-Point 3: (x=3, y=12)
-Result (c) for Test Case 1: 3
+<img width="1402" height="763" alt="image" src="https://github.com/user-attachments/assets/9c7d4cda-ee68-4244-a5cc-b9b36f8cd3c0" />
 
-Solving for Test Case 2...
-Degree of polynomial (m) is 6. Need 7 points.
-Point 1: (x=1, y=1234567890123456789)
-Point 2: (x=2, y=9876543210987654321)
-Point 3: (x=3, y=12345678901234567890)
-Point 4: (x=4, y=98765432109876543210)
-Point 5: (x=5, y=100000000000000000000)
-Point 6: (x=6, y=1000000000000000000000)
-Point 7: (x=7, y=10000000000000000000000)
-Result (c) for Test Case 2: 1337
